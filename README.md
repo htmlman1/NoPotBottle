@@ -1,2 +1,2 @@
 # NoPotBottle
-A plugin that removes bottles with potion effects upon drinking.
+A simple plugin that removes bottles with potion effects upon drinking.
