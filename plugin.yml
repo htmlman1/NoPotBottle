@@ -1,0 +1,6 @@
+name: NoPotBottles
+author: htmlman1
+version: 0.0.1-STABLE
+
+main: com.htmlman1.nopotbottles.Main
+database: false
