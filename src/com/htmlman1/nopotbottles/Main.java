@@ -8,7 +8,7 @@ public class Main extends JavaPlugin {
 	public static Plugin plugin;
 
 	@Override
-	public void onDisable() { ; }
+	public void onDisable() { plugin = null; }
 	
 	@Override
 	public void onEnable() {
